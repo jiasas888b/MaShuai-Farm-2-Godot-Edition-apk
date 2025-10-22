@@ -6,3 +6,5 @@ Android 7.0+
 download alpha 0.3.0+ official release version of MaShuai Farm 2
 
 the preview version is in other repository
+
+itch.io too https://jiasas888.itch.io/mashuai-farm-2
